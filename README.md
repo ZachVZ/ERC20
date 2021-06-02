@@ -1,2 +1,2 @@
-# ERC20
+# ERC20 Solidity
 Spec Coin
